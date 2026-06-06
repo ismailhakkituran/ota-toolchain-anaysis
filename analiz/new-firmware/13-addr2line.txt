@@ -1,0 +1,10 @@
+_reset_vector__
+/home/user/tmp/gcc-4.7.2-msp430/msp430/mcpu-430x/mmpy-16/msr20/mc20/libgcc/../../../../../../../gcc-4.7.2/libgcc/config/msp430/crt0.S:118
+__umoddi3
+/home/user/tmp/gcc-4.7.2-msp430/msp430/mcpu-430x/mmpy-16/msr20/mc20/libgcc/../../../../../../../gcc-4.7.2/libgcc/config/msp430/libgcc.S:992
+cc2420_read
+cc2420.c:0
+process_thread_ctimer_process
+ctimer.c:0
+link_stats_init
+??:0

@@ -1,0 +1,1 @@
+/home/karakas10/contiki-ng/examples/rpl-udp/new-firmware.z1: ELF 32-bit LSB executable, TI msp430, version 1 (embedded), statically linked, with debug_info, not stripped

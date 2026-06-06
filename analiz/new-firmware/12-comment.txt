@@ -1,0 +1,4 @@
+
+String dump of section '.comment':
+  [     0]  GCC: (GNU) 4.7.2 20120920 (mspgcc dev 20120911)
+
